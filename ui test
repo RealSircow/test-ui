@@ -2,7 +2,7 @@ local Library = {}
 
 function Library:CreateMain()	
 	local ScreenGui = Instance.new("ScreenGui")
-	local Frame = Instance.new("Frame")
+	local Frame = Instance.new("ImageLabel")
 	local UIListLayout = Instance.new("UIListLayout")
 
 
